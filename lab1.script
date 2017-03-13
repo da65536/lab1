@@ -1,0 +1,34 @@
+命令稿啟動於 2017年03月13日 下午 11:19:12
+]0;~/lab1
+[32mUser@User-PC [33m~/lab1[0m
+$ whoami; pwd
+User
+/home/User/lab1
+]0;~/lab1
+[32mUser@User-PC [33m~/lab1[0m
+$ git config-l
+git: 'config-l' is not a git command. See 'git --help'.
+]0;~/lab1
+[32mUser@User-PC [33m~/lab1[0m
+$ git config-l -l
+user.email=ycfeng116@gmail.com
+user.name=Treck
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+core.hidedotfiles=dotGitOnly
+]0;~/lab1
+[32mUser@User-PC [33m~/lab1[0m
+$ git clone https://github.com/trecknotrack/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+]0;~/lab1
+[32mUser@User-PC [33m~/lab1[0m
+$ d[Kexit
+
+命令稿已於 2017年03月13日 下午 11:25:23
+ 完成
